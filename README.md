@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaoxuan(Seven)</h1>
-<h3 align="center">MLOPs / Full-stack Data Scientist in Production & Manufacturing Domain</h3>
+<h3 align="center">MLOPs Engineer/Full-stack Data Scientist in Production & Manufacturing Domain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyseven1122&label=Profile%20views&color=0e75b6&style=flat" alt="luckyseven1122" /> </p>
 

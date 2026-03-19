@@ -1,0 +1,160 @@
+<h1 align="center">Hi 👋, I'm Yaoxuan (Seven) Zhu</h1>
+
+<h3 align="center">
+  MLOps Engineer &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; Data Scientist<br/>
+  Building production-grade ML systems from data pipelines to deployment & monitoring
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yaoxuan-zhu-seven/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zhuseven1122@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=luckyseven1122&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 About Me
+
+I'm a **PhD researcher & MLOps Engineer** at KTH Royal Institute of Technology (Stockholm) with **5+ years of end-to-end ML experience** — from raw sensor data to production APIs monitored 24/7.
+
+My core focus is building **intelligent process monitoring systems** that fuse multi-modal signals (vibration + acoustics) to predict surface quality in real-time manufacturing. I treat every model as a product: versioned, containerized, tested, and observable.
+
+- 🔬 **Research**: Multimodal deep learning, LLMs for time-series, Vision Transformers, Diffusion Models for data augmentation
+- ⚙️ **Engineering**: End-to-end MLOps (MLflow, Docker, Kubernetes, GitHub Actions, Evidently, Grafana)
+- ☁️ **Cloud**: AWS (SageMaker, S3, Lambda, Kinesis, Step Functions), GCP, Azure Databricks
+- 📦 **Currently**: Part-time ML Engineer @ NordML — demand forecasting system for Nudient AB on GCP
+- 📍 Stockholm, Sweden
+
+---
+
+## 🚀 What I Bring to DS / MLE / MLOps Roles
+
+| Area | What I've Done |
+|---|---|
+| **Data Science** | Feature engineering on time-series signals; statistical & automated extraction; multimodal fusion; uncertainty quantification |
+| **ML Engineering** | Trained & fine-tuned CNNs, ViTs, LLMs (LoRA/QLoRA), diffusion models; 15%+ error reduction vs. baselines; 95%+ accuracy in production |
+| **MLOps** | MLflow tracking + model registry; Docker + Kubernetes deployments; CI/CD with GitHub Actions; drift detection with Evidently; dashboards in Grafana |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 ML / DL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+> **Specialties**: LLMs (LoRA/QLoRA fine-tuning) · Vision Transformers (ViT) · CNNs (VGG, ResNet, InceptionResNet) · GANs · Diffusion Models · LSTM / RNN · NLP Transformers · SVM / RF / GBR
+
+### ⚙️ MLOps & Engineering
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently_AI-4CAF50?style=flat-square&logoColor=white)
+
+### ☁️ Cloud & Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 💼 Experience Highlights
+
+### 🎓 Full-stack Data Scientist — KTH Royal Institute of Technology *(Nov 2019 – Present)*
+> *End-to-end intelligent process quality monitoring system*
+
+- Built a **multimodal ML pipeline** fusing vibration + acoustic signals to predict surface roughness in real time
+- Achieved **>15% error reduction** vs. single-sensor baselines via ensemble fusion with attention mechanisms
+- Productionized with **MLflow + Docker + Kubernetes + GitHub Actions CI/CD**; drift detection via **Evidently**; real-time dashboards in **Grafana**
+- Deployed both **batch and low-latency REST APIs**; enforced data contracts for governed, auditable releases
+
+### 🏢 ML Engineer (Part-time) — NordML / Nudient AB *(June 2025 – Present)*
+> *Inventory demand forecasting system*
+
+- Built multi-SKU demand forecasting models with Shopify data pipelines, feature engineering, and **DVC** versioning
+- Deployed batch + real-time inference on **GCP** with Docker + CI/CD
+- Monitored via **Grafana** with MAPE, service level, and fill rate alerts tied to safety-stock replenishment
+
+### 🔧 Project Engineer — Sandvik Coromant AB *(Aug 2018 – Feb 2019)*
+> *ML-based milling runout & tool life prediction*
+
+- Developed **SVR, ANN, LR** models on vibration time-series to predict tool wear impact from milling runout
+- End-to-end responsibility: data collection → preprocessing → modeling → presentation at R&D monthly conference
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 LLM for Surface Quality Prediction *(Dec 2024 – Present)*
+Fine-tuned **ChatGLM2** with **LoRA/QLoRA** for surface quality prediction from textualized vibration features.
+Improved cross-dataset accuracy by **10%**; strong results in zero-shot and small-sample scenarios.
+
+### 🎨 Data Augmentation with Diffusion Models *(Jan 2024 – Nov 2024)*
+Applied **Conditional GANs & Classifier-Guidance Diffusion Models** to synthesize training images.
+📄 *Published in [Procedia CIRP, 58th CIRP Conference on Manufacturing Systems](https://www.sciencedirect.com/)*
+
+### 🔭 Vision Transformer for Process Monitoring *(Jun 2023 – May 2024)*
+Modified & fine-tuned **ViT** with multiple attention mechanisms for multimodal surface quality prediction.
+📄 *Under review — Journal of Advanced Engineering Informatics*
+
+### 🔄 Deep Transfer Learning for In-Process Monitoring *(Feb 2022 – Feb 2023)*
+Leveraged pre-trained CNNs (VGG16/19, ResNet50V2, InceptionResNetV2) on audio data; hyperparameter tuning with **Bayesian Optimization**.
+📄 *Published in Journal of Manufacturing Letters*
+
+### 🏭 Robust Hard Turning — Vinnova 3.5M SEK Project *(Feb 2019 – Apr 2021)*
+Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed models achieving **95%+ accuracy, R² > 0.98** for surface quality prediction.
+📄 *Published in Journal of Engineering Applications of Artificial Intelligence*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luckyseven1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyseven1122&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyseven1122&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|---|---|---|
+| 🎓 **PhD** — Intelligent Manufacturing (ML Monitoring Systems) | KTH Royal Institute of Technology, Sweden | 2019 – Present |
+| 🎓 **M.Sc.** — Production Engineering | KTH Royal Institute of Technology, Sweden | 2015 – 2018 |
+| 🎓 **B.Sc.** — Mechanical Engineering | Savonia University of Applied Sciences, Finland | 2012 – 2015 |
+
+---
+
+## 📝 Selected Publications
+
+- 📌 *"Leveraging classifier-guidance diffusion model for improved surface roughness prediction..."* — **Procedia CIRP, 58th CIRP CMS**
+- 📌 *"Surface quality prediction in-situ monitoring system: A deep transfer learning-based regression approach..."* — **Journal of Manufacturing Letters**
+- 📌 *"Data-driven approaches for surface quality monitoring... heterogeneous multi-channel signal fusion in HPT"* — **Journal of Engineering Applications of AI**
+- 📌 *"Surface roughness monitoring and prediction based on audible sound signal..."* — **Euspen 24th International Conference**
+- 📌 *"A multi-modality transformer approach: surface roughness monitoring with bottleneck attention mechanisms"* — **Under Review, Journal of Advanced Engineering Informatics**
+
+---
+
+<p align="center">
+  <i>Open to Data Scientist · ML Engineer · MLOps Engineer opportunities — feel free to reach out! 🚀</i>
+</p>

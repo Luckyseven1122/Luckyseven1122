@@ -163,7 +163,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 **Key topics**: `Diffusion Model` `Data Augmentation` `Transfer Learning` `VGG16` `Mel-spectrogram` `Surface Roughness`
 
 <p align="center">
-  <img src="./paper_images/paper1.png" width="700" alt="Paper 1 Overview Figure — replace with your exported figure"/>
+  <img src="./paper_images/paper1.png" width="700" alt="Paper 1 Overview Figure-Diffusion"/>
 </p>
 
 ---
@@ -180,7 +180,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 **Key topics**: `Transfer Learning` `CNN` `Bayesian Optimization` `Audible Sound` `Mel-spectrogram` `In-process Monitoring`
 
 <p align="center">
-  <img src="./paper_images/paper2.png" width="700" alt="Paper 2 Overview Figure — replace with your exported figure"/>
+  <img src="./paper_images/paper2.png" width="700" alt="Paper 2 Overview Figure-Deep-TL"/>
 </p>
 
 ---
@@ -197,7 +197,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 **Key topics**: `Multi-sensor Fusion` `Hard Turning` `ML Models` `Uncertainty Quantification` `Bayesian Optimization` `Feature Engineering`
 
 <p align="center">
-  <img src="./paper_images/paper3.png" width="700" alt="Paper 3 Overview Figure — replace with your exported figure"/>
+  <img src="./paper_images/paper3.png" width="700" alt="Paper 3 Overview Figure-Data-driven"/>
 </p>
 
 ---
@@ -229,7 +229,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 **Key topics**: `Vision Transformer (ViT)` `Attention Mechanisms` `Multimodal Fusion` `Deep Learning` `Surface Quality Prediction`
 
 <p align="center">
-  <img src="./paper_images/paper5.png" width="700" alt="Paper 5 Overview Figure — replace with your exported figure"/>
+  <img src="./paper_images/paper5.png" width="700" alt="Paper 5 Overview Figure"/>
 </p>
 
 ---

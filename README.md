@@ -18,6 +18,9 @@
   <img src="https://komarev.com/ghpvc/?username=luckyseven1122&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <i>Open to Data Scientist · ML Engineer · MLOps Engineer · Data Engineer opportunity
+
 ---
 
 ## 🧠 About Me
@@ -256,6 +259,5 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 </p>
 
 
-<p align="center">
-  <i>Open to Data Scientist · ML Engineer · MLOps Engineer · Data Engineer opportunity
+
   

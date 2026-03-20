@@ -235,5 +235,23 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 
 ---
 
+### 6 · Data augmenation methods for improved surface quality prediction monitoring 
+
+**Data augmenation based surface quality monitoring with machine learning models**
+
+📰 *Oral presentation as the invited speaker at Digital Cluster Conference, Stockholm, 10-05-2023*
+
+&nbsp;|&nbsp; 🎥 [Video Link](https://kunskapsformedlingen.se/en/partners-and-collaborations/session-digital-manufacturing/)
+
+> Modified and fine-tuned Vision Transformer (ViT) models combined with multiple bottleneck attention mechanisms for surface roughness prediction under multimodal information fusion (vibration + acoustic). Benchmarked across multiple fusion scenarios.
+
+**Key topics**: `Data Augmentation` `Signal Synthesis` `ML Algorithms` `Surface Roughness Prediction` `Audible Sound`
+
+<p align="center">
+  <img src="./paper_images/DA.jpg" width="700" alt="Paper 5 Overview Figure - DA"/>
+</p>
+
+---
+
 <p align="center">
   <i>Open to Data Scientist · ML Engineer · MLOps Engineer opportuniti

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaoxuan (Seven) Zhu</h1>
+<h1 align="center">Hej, Moi, 👋, I'm Yaoxuan (Seven) Zhu</h1>
 
 <h3 align="center">
   MLOps Engineer &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; Data Scientist<br/>
@@ -9,8 +9,11 @@
   <a href="https://www.linkedin.com/in/yaoxuan-zhu-seven/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#f48e9c81879182919ac5c5c6c6b49399959d98da979b99">
+  <a href="mailto:zhuseven1122@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://scholar.google.se/citations?user=bQPYwLEAAAAJ&hl=en/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=luckyseven1122&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
@@ -208,6 +211,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 **Surface roughness monitoring and prediction based on audible sound signal with the comparison of statistical and automatic feature extraction methods in turning process**
 
 📰 *Euspen's 24th International Conference & Exhibition, 2024*
+&nbsp;|&nbsp; 🔗 [Open Access — CC BY](https://www.euspen.eu/resource/surface-roughness-monitoring-and-prediction-based-on-audible-sound-signal-with-the-comparison-of-statistical-and-automatic-feature-extraction-methods-in-turning-process/)
 
 > Benchmarked statistical (handcrafted) vs. automated feature extraction methods applied to audible sound signals for surface roughness prediction in CNC turning. Provided clear guidance on feature strategy selection for practical deployment.
 
@@ -235,7 +239,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 
 ---
 
-### 6 · Data augmenation methods for improved surface quality prediction monitoring 
+### 6 · Data augmenation methods for improved surface quality monitoring and prediction
 
 **Data augmenation based surface quality monitoring with machine learning models**
 
@@ -254,4 +258,4 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 ---
 
 <p align="center">
-  <i>Open to Data Scientist · ML Engineer · MLOps Engineer opportunity
+  <i>Open to Data Scientist · ML Engineer · MLOps Engineer · Data Engineer opportunity

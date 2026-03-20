@@ -124,20 +124,6 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckyseven1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyseven1122&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyseven1122&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Period |
@@ -257,5 +243,19 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luckyseven1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyseven1122&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyseven1122&theme=tokyonight&hide_border=true" />
+</p>
+
+
 <p align="center">
   <i>Open to Data Scientist · ML Engineer · MLOps Engineer · Data Engineer opportunity
+  

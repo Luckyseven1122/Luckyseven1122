@@ -142,10 +142,10 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 
 | Degree | Institution | Period |
 |---|---|---|
-| 🎓 **PhD** — Intelligent Manufacturing (ML Monitoring Systems) | KTH Royal Institute of Technology, Sweden | 2019 – Present |
-| 🎓 **M.Sc.** — Production Engineering | KTH Royal Institute of Technology, Sweden | 2015 – 2018 |
-| 🎓 **M.Sc.** — Computer Science | Aalto University, Finland | 2015 – 2018 |
-| 🎓 **B.Sc.** — Mechanical Engineering | Savonia University of Applied Sciences, Finland | 2012 – 2015 |
+| 🎓 **Ph.D.** — Intelligent Manufacturing (ML Monitoring Systems) | <a href="https://www.kth.se/en" target="_blank"><img src="https://www.google.com/s2/favicons?domain=kth.se&sz=20" height="14"/> KTH Royal Institute of Technology, Sweden</a> | 2019 – Present |
+| 🎓 **M.Sc.** — Production Engineering | <a href="https://www.kth.se/en" target="_blank"><img src="https://www.google.com/s2/favicons?domain=kth.se&sz=20" height="14"/> KTH Royal Institute of Technology, Sweden</a> | 2015 – 2018 |
+| 🎓 **M.Sc.** — Computer Science (Minor) | <a href="https://www.aalto.fi/en" target="_blank"><img src="https://www.google.com/s2/favicons?domain=aalto.fi&sz=20" height="14"/> Aalto University, Finland</a> | 2015 – 2018 |
+| 🎓 **B.Sc.** — Mechanical Engineering | <a href="https://www.savonia.fi/en/" target="_blank"><img src="https://www.google.com/s2/favicons?domain=savonia.fi&sz=20" height="14"/> Savonia University of Applied Sciences, Finland</a> | 2012 – 2015 |
 
 ---
 

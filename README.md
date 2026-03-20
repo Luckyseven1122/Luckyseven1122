@@ -254,4 +254,4 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 ---
 
 <p align="center">
-  <i>Open to Data Scientist · ML Engineer · MLOps Engineer opportuniti
+  <i>Open to Data Scientist · ML Engineer · MLOps Engineer opportunity

@@ -1,5 +1,5 @@
 # ppt
-*.ppt
+*.pptx
 
 # Byte-compiled // optimized / DLL files
 __pycache__/

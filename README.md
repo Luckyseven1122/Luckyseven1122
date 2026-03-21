@@ -2,7 +2,7 @@
 
 <h3 align="center">
   MLOps Engineer &nbsp;|&nbsp; ML Engineer &nbsp;|&nbsp; Data Scientist<br/>
-  Building production-grade ML systems from data pipelines to deployment & monitoring
+  Building production-grade ML systems from data pipelines to deployment & monitoring in the context of engineering applicaiton
 </h3>
 
 <p align="center">

@@ -149,7 +149,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 **Leveraging classifier-guidance diffusion model for improved surface roughness prediction through synthesized audible sound signal**
 
 📰 *Procedia CIRP, 58th CIRP Conference on Manufacturing Systems, 2025*
-&nbsp;|&nbsp; 🔗 [DOI: 10.1016/j.procir.2025.XX.XXX](https://www.sciencedirect.com/science/article/pii/S2212827125005815)
+&nbsp;|&nbsp; 🔗 [Open Access — CC BY](https://www.sciencedirect.com/science/article/pii/S2212827125005815)
 
 > Applied a classifier-guided diffusion model to synthesize 2D Mel-spectrogram images of audible sound signals from machining, tackling data scarcity in deep learning-based monitoring. Synthetic + real data boosted VGG16 prediction accuracy and generalization on enriched datasets.
 
@@ -166,7 +166,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 **Surface quality prediction in-situ monitoring system: A deep transfer learning-based regression approach with audible signal**
 
 📰 *Journal of Manufacturing Letters, 2024*
-&nbsp;|&nbsp; 🔗 [DOI: 10.1016/j.mfglet.2024.09.156](https://doi.org/10.1016/j.mfglet.2024.09.156)
+&nbsp;|&nbsp; 🔗 [Open Access — CC BY](https://doi.org/10.1016/j.mfglet.2024.09.156)
 
 > Built an in-process surface roughness monitoring system using pre-trained CNNs (VGG16, VGG19, ResNet50V2, InceptionResNetV2) on Mel-spectrogram images of audible sound. Model architectures fine-tuned via Bayesian optimization; compared across multiple input window lengths.
 

@@ -111,7 +111,7 @@ Improved cross-dataset accuracy by **10%**; strong results in zero-shot and smal
 
 ### 🎨 Data Augmentation with Diffusion Models *(Jan 2024 – Nov 2024)*
 Applied **Conditional GANs & Classifier-Guidance Diffusion Models** to synthesize training images.
-📄 *Published in [Procedia CIRP, 58th CIRP Conference on Manufacturing Systems](https://www.sciencedirect.com/)*
+📄 *Published in [Procedia CIRP, 58th CIRP Conference on Manufacturing Systems](https://doi.org/10.1016/j.procir.2025.02.207)*
 
 ### 🔭 Vision Transformer for Process Monitoring *(Jun 2023 – May 2024)*
 Modified & fine-tuned **ViT** with multiple attention mechanisms for multimodal surface quality prediction.
@@ -183,7 +183,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 **Data-driven approaches for surface quality monitoring and prediction based on heterogeneous multi-channel signal fusion in hard part machining**
 
 📰 *Journal of Engineering Applications of Artificial Intelligence, 2025*
-&nbsp;|&nbsp; 🔗 [Open Access — CC BY](https://www.sciencedirect.com/science/article/pii/S0952197625007730)
+&nbsp;|&nbsp; 🔗 [Open Access — CC BY](https://doi.org/10.1016/j.engappai.2025.111865)
 
 > A comprehensive methodology evaluating signal selection, multi-sensor fusion, and ML model deployment for hard turning. Validated on two machining platforms; includes uncertainty quantification (NPKDE-based prediction intervals) and Bayesian hyperparameter tuning.
 

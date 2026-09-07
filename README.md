@@ -214,13 +214,13 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 
 ### 5 · Vision Transformer with Bottleneck Attention for Multimodal Monitoring
 
-**A multi-modality transformer approach: surface roughness monitoring and prediction with bottleneck attention mechanisms**
+**A multi-modality transformer approach: surface roughness monitoring and prediction with attention mechanisms**
 
 📰 *Under Review — Journal of Advanced Engineering Informatics*
 
-> Modified and fine-tuned Vision Transformer (ViT) models combined with multiple bottleneck attention mechanisms for surface roughness prediction under multimodal information fusion (vibration + acoustic). Benchmarked across multiple fusion scenarios.
+> Modified and fine-tuned Vision Transformer (ViT) models combined with multiple attention mechanisms for surface roughness prediction under multimodal information fusion (vibration + acoustic). Benchmarked across multiple fusion scenarios.
 
-**Key topics**: `Vision Transformer (ViT)` `Attention Mechanisms` `Multimodal Fusion` `Deep Learning` `Surface Quality Prediction`
+**Key topics**: `Vision Transformer (ViT)` `Multimodal Fusion` `Deep Learning` `Surface Quality Prediction`
 
 <p align="center">
   <img src="./paper_images/Experiment.jpg" width="700" alt="Paper 5 Overview Figure"/>

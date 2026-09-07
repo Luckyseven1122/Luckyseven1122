@@ -212,7 +212,7 @@ Industrial collaboration with **Volvo Truck, Sandvik, Swerim AB** — deployed m
 
 ---
 
-### 5 · Vision Transformer with Bottleneck Attention for Multimodal Monitoring
+### 5 · Vision Transformer with Fusion Attention Mechanism for Multimodal Monitoring
 
 **A multi-modality transformer approach: surface roughness monitoring and prediction with attention mechanisms**
 
